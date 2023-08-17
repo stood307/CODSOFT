@@ -5,7 +5,7 @@ from tkinter import messagebox          # importing the messagebox module from t
 import sqlite3 as sql                   # importing the sqlite3 module as sql  
   
 # defining the function to add tasks to the list  
-def add_task():  
+def add_task(): 
     # getting the string from the entry field  
     task_string = task_field.get()  
     # checking whether the string is empty or not  
