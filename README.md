@@ -25,8 +25,7 @@ A **To-Do List** is a GUI project that helps users manage and organize their tas
 
 A **Calculator** performing simple arithmetic calculations.
 
-![Calculator](https://drive.google.com/file/d/1mxyOdop8TrfGAZhYjZ0N3kNWKQlzWflP/view?usp=drive_link)
-
+![Calculator]https://docs.google.com/document/d/1lxph783hjBRRpeuNZSWQh32qifo3yIsPrEg5TOSUej0/edit?usp=sharing
 ### Task 3
 
 A **Password Generator** is a tool that generates strong and random passwords for users.
