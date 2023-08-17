@@ -31,4 +31,4 @@ A **Calculator** performing simple arithmetic calculations.
 
 A **Password Generator** is a tool that generates strong and random passwords for users.
 
-![Password Generator](https://onedrive.live.com/embed?resid=D59B8CEFF4DC7B57%211734&authkey=%21ALB3JZV5HidlsaI&width=350&height=416)
+![Password Generator](https://drive.google.com/file/d/1MEpXR1ECTdnXLMqkWhLf7Ob5MEERWQqM/view?usp=drive_link)
