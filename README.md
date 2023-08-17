@@ -2,4 +2,5 @@
 This repository contains all the tasks required for the CodSoft Python Programming Internship
 # Requirements
 A python interpreter
-Tkinter Library
+Tkinter Library(Install Using:-)
+pip install tkinter
