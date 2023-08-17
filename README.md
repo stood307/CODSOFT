@@ -19,8 +19,7 @@ This repository contains all the tasks required for the CodSoft Python Programmi
 
 A **To-Do List** is a GUI project that helps users manage and organize their tasks efficiently.
 
-![Todo List](https://drive.google.com/file/d/1mxyOdop8TrfGAZhYjZ0N3kNWKQlzWflP/view?usp=sharing)
-
+![Todo List](https://onedrive.live.com/embed?resid=B2A8573E14F3674C%212941&authkey=%21AP8cMYRPE-NeR08&width=1050&height=646)
 ### Task 2
 
 A **Calculator** performing simple arithmetic calculations.
