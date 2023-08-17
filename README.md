@@ -25,7 +25,7 @@ A **To-Do List** is a GUI project that helps users manage and organize their tas
 
 A **Calculator** performing simple arithmetic calculations.
 
-![Calculator](https://onedrive.live.com/embed?resid=D59B8CEFF4DC7B57%211733&authkey=%21ADRHIE7k7URX66s&width=305&height=249)
+![Calculator](https://drive.google.com/file/d/1mxyOdop8TrfGAZhYjZ0N3kNWKQlzWflP/view?usp=drive_link)
 
 ### Task 3
 
